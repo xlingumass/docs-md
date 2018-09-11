@@ -48,7 +48,7 @@ To pay subjects in cash, the PI will have to submit a form, with the IRB approva
 
 ### Credit studies
 
-See the [SONA guide](https://rmgeguera.github.io/ling-sona/#credit-compensation).
+See the [SONA guide](https://xlingumass.github.io/ling-sona/#credit-compensation).
 
 ### Multi-part studies 
 
@@ -56,4 +56,4 @@ Participants must be compensated for each day that they participate (so you can'
 
 ## Examples
 
-...
+[Acceptability judgment](resources/Protocol2016-3033.pdf)

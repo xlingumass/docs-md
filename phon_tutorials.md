@@ -51,7 +51,7 @@ All this is done in R/RStudio. An example RMarkdown script showing these steps i
 
 ## Examples and resources
 
-### Praat scripts
+## Praat scripting
 
 ### R scripts
 

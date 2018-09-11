@@ -16,4 +16,4 @@ RAs should speak with their PI and the department secretary to work out earning 
 
 ## SONA researcher account
 
-Email the lab manager to get the researcher role added to an RA's account. 
+Email the lab manager to get the researcher role added to an RA's account. See the SONA guide for how to [add an RA to your study](https://xlingumass.github.io/ling-sona/#adding-ras).
