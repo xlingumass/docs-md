@@ -56,4 +56,4 @@ Participants must be compensated for each day that they participate (so you can'
 
 ## Examples
 
-[Acceptability judgment](resources/Protocol2016-3033.pdf)
+[Protocol for acceptability judgments](resources/Protocol2016-3033.pdf)
