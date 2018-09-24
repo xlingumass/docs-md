@@ -46,6 +46,8 @@ To pay subjects in cash, the PI will have to submit a form, with the IRB approva
 
 [//]: # (need some kind of official statement but i'm pretty sure you have to pay at least minimum wage for the amount of time that you do? Update: apparently not, which blows my mind... but I guess the IRB is just happy to think that people are consenting to participation without cash being coercive, so better to under rather than overpay)
 
+You may give participants the option to earn either cash or credit for their participation, but in that case you should set it up in SONA as a for-credit study and note in the description that participants may choose to receive cash compensation instead. If a participant chooses to receive monetary compensation, you should grant credit, but mark the credit as 0 credits, and then note in the comments for the timeslot that payment was received.
+
 ### Credit studies
 
 See the [SONA guide](https://xlingumass.github.io/ling-sona/#credit-compensation).
