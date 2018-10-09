@@ -2,10 +2,12 @@
 
 ## Structuring projects
 
+Projects on the OSF are modular. Instead of projects being connected like an umbrella or ladder, with smaller projects underneath some top level, on the OSF projects are islands that you construct one-way bridges between. You can define as many components as you like, how you like, and you have the same options for a component as you do the whole project. 
+
 !!! important "What to include in a project"
     When you upload a project to the OSF, do your best to include everything that someone would need to reproduce the study. This includes stimuli and other materials, a description of your methods, experiment scripts, analysis scripts. You should also include a summary of the project.
 
-Projects on the OSF are modular. Instead of projects being connected like an umbrella or ladder, with smaller projects underneath some top level, on the OSF projects are islands that you construct one-way bridges between. You can define as many components as you like, how you like, and you have the same options for a component as you do the whole project. You can create wiki pages, set usage rights, permissions, citation identifiers, and upload files locally for each component in your project. So you can make everything public except for a few components, make everything private except for the overarching project, or anything in between. 
+You can create wiki pages, set usage rights, permissions, citation identifiers, and upload files locally for each component in your project. So you can make everything public except for a few components, make everything private except for the overarching project, or anything in between. 
 
 [//]: # (reminder, link to public [example])
 

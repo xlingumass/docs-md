@@ -1,10 +1,13 @@
 
 ***
 
+[//]: # (how to make it a nonthreatening and your-specific-IRB-approved way to get consent)
+
 [//]: # (overview/explanation blurb [+ inputs and outputs, from start to finish (perhaps make a flowchart?])
 
 [//]: # (running eyetracking with audio involved)
 
+## Single line reading experiments
 
 ### Gathering data 
 
@@ -29,13 +32,13 @@ Create a text file of your stimuli, then insert region boundaries using forward 
     Might be:
          
         17 81 /Which basketball players/ is the coach/ planning/ to use this season?/\n
- 
+
 Once you have inserted all breaks in the sentences, take the resulting file (suppose it's called 'annotated_sents.txt'), and use the makeRegions.py file to convert it into a CNT file. From the command line:
    
 `python Scripts/makeRegions.py 'annotated_sents.txt'`
 
-// i forget what the differences between this v. for_robodoc version are -- do you need to use that one, investigate
-   
+[//]: # (i forget what the differences between this v. for_robodoc version are -- do you need to use that one, investigate)
+
 where you pass the name of the file you just made as a command-line argument to makeRegions.py. This should create a file called 'output.reg.txt' in which every line looks like this:
      
     17 81 6 0 0 24 0 31 0 37 0 46 0 66 0
@@ -79,7 +82,7 @@ You should specify the name of the input and output files, but can simply skip t
 
 The resulting output file should look similar to this:
 
-![You now have a .script file with the items!](images/guide_images/unedited_script.png) The trial at the top is a key -- before running the script, you should delete it. 
+![You now have a .script file with the items!](images/guide_images/unedited_script.png) The trial at the top is essentially a key, made from the header -- before running the script, you should delete it. 
 
 In your preferred text editor, copy the following above the items in your script file: 
 
@@ -166,7 +169,7 @@ Edit the header and variables to match your items, as well as any parameters you
 
 Open the script file on the host computer connected to the eyetracking machine. You can test the script by opening it in EyeTrack. You should test each condition in your script. See [handy dandy randomizer.py Brian did](link-to-it-on-github) to create your own lists. 
 
-// whoops i forget what the hassle about unix or windows newlines was... reproduce in august
+[//]: # (remember to put randomizer and compileItems and associated readme in resources)
 
 </details>
 
@@ -184,7 +187,7 @@ For reference on how to code and run eyetracking experiments, we refer to chapte
     
     2. The IRB sometimes asks for number of subjects and their gender at the end of the semester.  Make that easy for yourself.
 
-    3. Figure out in advance how you are going to label subjects that leave half way through (maybe you can't track them) and non-native speakers.  Do you rename that file and give the next person that subject number, or do you just go on to the next subject number? Whichever you choose, stay consistent! It helps to document what you do when you do it.
+    3. Figure out in advance how you are going to label subjects that leave half way through (maybe you can't track them) and non-native speakers.  Do you rename that file and give the next person that subject number, or do you just go on to the next subject number? Whichever you choose, stay consistent! Document what you do when you do it.
 
 After you've run a participant, save their data file, making sure the filename is 6 characters or less (e.g. EYE002.edf).
 </details>
@@ -200,7 +203,7 @@ After you've run a participant, save their data file, making sure the filename i
 
 To do anything further with the data, you'll have to convert it from .edf to .asc. On the host computer, open the command line and navigate to the directory with the .edf files in it. `edf2asc *.edf` creates .asc versions of all the .edf files in that directory. 
 
-//if it's not proprietary or something we should put the edf2asc program up
+[//]: # (if it's not proprietary or something we should put the edf2asc program up)
 
 We need to parse the .asc files into a series of fixations so that we can use the regioned sentences from earlier. We'll use [Robodoc](https://blogs.umass.edu/eyelab/software/RoboDoc_and_utils.zip) to do this. You'll need to edit the parameter file (parameter.txt, in RoboDoc_and_utils/Robodoc) to specify the directory you've stored your .asc files in and the region file you made earlier, as well as to reflect the exclusion criteria you'd like to use. ![image of editing parameters.txt]()
 
@@ -208,16 +211,11 @@ Once you've edited the parameters, hop into the command line and run Robodoc: `R
 
 If everything's gone smoothly, you'll have a folder of DA1 files as well as several folders and files detailing what files were processed, excluded, and kept, as well as blink information for each subject.
 
-It's at this point that we'll use [SideEye](https://github.com/bdillon/side-eye) to process the DA1 files into measures we can analyze. 
-
-//install sideeye with pip
+It's at this point that we'll use [SideEye](https://github.com/amnda-d/sideeye) to process the DA1 files into measures we can analyze. (Note: SideEye requires Python >= 3.5. It's easiest to install with pip: in Python, `pip install sideeye`.)
 
 From the examples folder, copy `sample.py` and `sample_config.json` into the directory containing a folder of DA1 files and a .cnt or .reg region file. Open both files in a text editor. Replace the file paths in `sample.py` with paths to your DA1 and region files. Replace `sample_output.csv` with whatever you want the output file to be named. Edit `sample_config.json` to match the parameters needed for your experiment. See the readme.rst for more information.
 
 The resulting output file should look like this: ![output csv file](/images/guide-images/outputcsv.png)
- 
-!!! Success "Success"
-    <strike>Land sakes alive, we are cooking with petrol now!!</strike>
 
 </details>
 
@@ -230,8 +228,10 @@ The resulting output file should look like this: ![output csv file](/images/guid
 
 [examples of analysis scripts/bare template]
 
-r test: should be able to link to stuff, right? so [a link](resources/r_nbtest.html)
+[//]: # (r test: should be able to link to stuff, right? linking to resources/r_nbtest.html worked fine)
 
+!!! Success "Success"
+    <strike>Land sakes alive, we are cooking with petrol now!!</strike>
 
 </details>
 
@@ -241,6 +241,8 @@ r test: should be able to link to stuff, right? so [a link](resources/r_nbtest.h
 
 [Example running log](https://docs.google.com/spreadsheets/d/1OJMycWVKSxMyMxGBj2nvOhCwrskPeOB14_XktqZa02Y/edit?usp=sharing)
 
-[Basic log template](https://docs.google.com/spreadsheets/d/1bv9s0dUHXiYGNY4dCKN3pSsaRklXi7rrNmNfvvjcmQk/edit#gid=0)
+[//]: # (above log has been edited to preserve privacy of participants)
+
+[Example log template](https://docs.google.com/spreadsheets/d/1bv9s0dUHXiYGNY4dCKN3pSsaRklXi7rrNmNfvvjcmQk/edit#gid=0)
 
 [et-manual]: https://people.umass.edu/eyelab/eyelab%20manual.pdf

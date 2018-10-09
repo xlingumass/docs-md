@@ -23,9 +23,9 @@ To print remotely to the copy room, you'll need to download the correct printer 
 
 [Praat](http://www.fon.hum.uva.nl/praat/)
 
-[MATLAB](https://www.mathworks.com/products/matlab.html)
+[Octave](https://www.gnu.org/software/octave/)
 
-[SideEye](https://github.com/bdillon/side-eye): a python package for processing eyetracking data (as DA1 files) created by Amanda Doucette, an alum of the CSL Lab.
+[SideEye](https://github.com/zediski/sideeye): a python package for processing eyetracking data (as DA1 files) created by Amanda Doucette, an alum of the CSL Lab. You can find the documentation [here](https://sideeye.readthedocs.io/en/latest/index.html#).
     
 [R](https://www.r-project.org/about.html) and [RStudio](https://www.rstudio.com/) for data analysis.
 
