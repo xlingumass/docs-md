@@ -29,7 +29,7 @@ The Phonetics Laboratory comprises four rooms in the Integrative Learning Center
 3. **N446**: A room where EEG experiments are run,
 4. **N448**: A room with a single-walled, sound-attentuating booth for recording and digitizing directly to computer.
 
-The computers in the N443 and N445 all run the Linux operating system. Experiments are run using [PsychToolBox](http://psychtoolbox.org/) scripts. Other software includes [Praat](http://www.fon.hum.uva.nl/praat/), [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), and [MATLAB](https://www.mathworks.com/products/matlab.html). 
+The computers in the N443 and N445 all run the Linux operating system. Experiments are run using [PsychToolBox](http://psychtoolbox.org/) scripts. Other software includes [Praat](http://www.fon.hum.uva.nl/praat/), [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), and [Octave](https://www.gnu.org/software/octave/). 
 
 ## Personnel
 

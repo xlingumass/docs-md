@@ -59,7 +59,7 @@ You'll need this (double-checked!) file later on.
   <summary>Create a script file to run your eyetracking experiment</summary>
 
 #### Creating a script file using Scripter2
-  Assuming you have your items in a spreadsheet, creating the script file for eyetracking is simple. You'll need to organize your items as required by Scripter2, all items following this order (the header isn't used, so the naming doesn't matter):
+  Assuming you have your items in a spreadsheet, you can use Scripter2 to format them the way the Eyetrack program requires. You'll need to organize your items as required by Scripter2, all items following this order (the header isn't used, so the naming doesn't matter):
 
 |Condition|Item|Dependent|Trial Type|Answer|Timeout (in ms)|Sentence 1|(Sentence 2)|
 |-|-|-|-|-|-|-|-|
@@ -167,9 +167,7 @@ Edit the header and variables to match your items, as well as any parameters you
 
 #### Controlling your lists
 
-Open the script file on the host computer connected to the eyetracking machine. You can test the script by opening it in EyeTrack. You should test each condition in your script. See [handy dandy randomizer.py Brian did](link-to-it-on-github) to create your own lists. 
-
-[//]: # (remember to put randomizer and compileItems and associated readme in resources)
+Open the script file on the host computer connected to the eyetracking machine. You can test the script by opening it in EyeTrack. You should test each condition in your script. See [handy dandy randomizer.py Brian did](https://github.com/xlingumass/docs-md/tree/master/resources/scripts/randomize_items) to create your own lists. 
 
 </details>
 
@@ -178,7 +176,7 @@ Open the script file on the host computer connected to the eyetracking machine. 
 
 #### Running an eyetracking experiment
 
-For reference on how to code and run eyetracking experiments, we refer to chapters 1 and 2 in [this manual][et-manual]
+
 
 ...
 
@@ -190,6 +188,7 @@ For reference on how to code and run eyetracking experiments, we refer to chapte
     3. Figure out in advance how you are going to label subjects that leave half way through (maybe you can't track them) and non-native speakers.  Do you rename that file and give the next person that subject number, or do you just go on to the next subject number? Whichever you choose, stay consistent! Document what you do when you do it.
 
 After you've run a participant, save their data file, making sure the filename is 6 characters or less (e.g. EYE002.edf).
+
 </details>
 
 ### Analyzing data
@@ -205,7 +204,9 @@ To do anything further with the data, you'll have to convert it from .edf to .as
 
 [//]: # (if it's not proprietary or something we should put the edf2asc program up)
 
-We need to parse the .asc files into a series of fixations so that we can use the regioned sentences from earlier. We'll use [Robodoc](https://blogs.umass.edu/eyelab/software/RoboDoc_and_utils.zip) to do this. You'll need to edit the parameter file (parameter.txt, in RoboDoc_and_utils/Robodoc) to specify the directory you've stored your .asc files in and the region file you made earlier, as well as to reflect the exclusion criteria you'd like to use. ![image of editing parameters.txt]()
+We need to parse the .asc files into a series of fixations we can match against the regioned sentences from earlier. We'll use [Robodoc](https://blogs.umass.edu/eyelab/software/RoboDoc_and_utils.zip) to do this. You'll need to edit the parameter file (parameter.txt, in RoboDoc_and_utils/Robodoc) to specify the directory you've stored your .asc files in and the region file you made earlier, as well as to reflect the exclusion criteria you'd like to use. ![image of editing parameters.txt]()
+
+[//]: # (remember to go back and add screencaps for this)
 
 Once you've edited the parameters, hop into the command line and run Robodoc: `Robodoc.py edited_parameters.txt`. ![image of cmd line, etc printouts]() 
 
@@ -241,7 +242,7 @@ The resulting output file should look like this: ![output csv file](/images/guid
 
 [Example running log](https://docs.google.com/spreadsheets/d/1OJMycWVKSxMyMxGBj2nvOhCwrskPeOB14_XktqZa02Y/edit?usp=sharing)
 
-[//]: # (above log has been edited to preserve privacy of participants)
+[//]: # (DO NOT DELETE: above log has been edited to preserve privacy of participants)
 
 [Example log template](https://docs.google.com/spreadsheets/d/1bv9s0dUHXiYGNY4dCKN3pSsaRklXi7rrNmNfvvjcmQk/edit#gid=0)
 
