@@ -2,6 +2,8 @@
 
 --- 
 
+!["The Cognitive Science of Language Lab."](images/etlab.jpg)
+
 The [Cognitive Science of Language Lab](osf.io/8rcwh/) studies how readers and listeners recognize the syntactic structure of sentences, and how readers and listeners recognize the meaning of those sentences in context. Specific current projects ask:
 
 1. When, and to what degree, is the Binding Theory applied to constrain the interpretation of pronouns and reflexives? (Currently investigating: English, Romanian, Vietnamese)

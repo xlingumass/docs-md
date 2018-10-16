@@ -2,6 +2,8 @@
 
 --- 
 
+!["Phonetics lab members."](images/plab.jpg)
+
 ## Description
 
 The [Phonetics Laboratory](https://osf.io/jbvfr/) provides state-of-the-art resources and tools for the study of the acoustics, perception, and neural representations of speech and other sounds. 

@@ -1,7 +1,5 @@
 
-!["placeholderimage"](images/ling2017big2.jpg) [^placeholder image: here, a blurb about joint labs] 
-
-[//]: # (take joint labs picture!)
+!["A Joint Labs meeting."](images/jlabs.jpg)
 
 **Joint lab meetings for Fall 2018 will be held in the Integrative Learning Center, Room N451, every other Thursday at 4 PM starting September 6.**
 
