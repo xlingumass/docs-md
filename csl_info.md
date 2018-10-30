@@ -2,7 +2,7 @@
 
 --- 
 
-!["The Cognitive Science of Language Lab."](images/etlab.jpg)
+!["Cognitive Science of Language Lab members."](images/etlab.jpg)
 
 The [Cognitive Science of Language Lab](osf.io/8rcwh/) studies how readers and listeners recognize the syntactic structure of sentences, and how readers and listeners recognize the meaning of those sentences in context. Specific current projects ask:
 
@@ -33,11 +33,13 @@ Erika Mayer (Ph.D. Student)
 
 Anissa Neal (Ph.D. Student)
 
-Niralee Gupta (Undergraduate student)
+Niralee Gupta (Undergraduate Student)
 
-Connor Harmelink (Undergraduate student)
+Christian Muxica (Undergraduate Student)
 
-Christian Muxica (Undergraduate student)
+Risa Komatsu (Undergraduate Student)
+
+Jessica Primavera (Undergraduate Student)
 
 ### Lab Basics
 
