@@ -2,7 +2,7 @@
 
 --- 
 
-!["Cognitive Science of Language Lab members."](images/etlab.jpg)
+!["Cognitive Science of Language Lab members."](images/et_lab.jpg)
 
 The [Cognitive Science of Language Lab](osf.io/8rcwh/) studies how readers and listeners recognize the syntactic structure of sentences, and how readers and listeners recognize the meaning of those sentences in context. Specific current projects ask:
 
