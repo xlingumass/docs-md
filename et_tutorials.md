@@ -11,7 +11,7 @@
 
 ### Gathering data 
 
-...
+A thing!
 
 <details>
   <summary>Region your items</summary>
@@ -246,4 +246,4 @@ The resulting output file should look like this: ![output csv file](/images/guid
 
 [Example log template](https://docs.google.com/spreadsheets/d/1bv9s0dUHXiYGNY4dCKN3pSsaRklXi7rrNmNfvvjcmQk/edit#gid=0)
 
-[et-manual]: https://people.umass.edu/eyelab/eyelab%20manual.pdf
+[et-manual]: https://people.umass.edu/eyelab/eyelab+manual.pdf
