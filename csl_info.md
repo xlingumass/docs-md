@@ -39,6 +39,7 @@ Christian Muxica (Undergraduate Student)
 
 Risa Komatsu (Undergraduate Student)
 
+Jessica Primavera (Undergraduate Student)
 
 ### Lab Basics
 
