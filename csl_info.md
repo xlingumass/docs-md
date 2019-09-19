@@ -35,8 +35,6 @@ Anissa Neal (Ph.D. Student)
 
 Christian Muxica (Undergraduate Student)
 
-Risa Komatsu (Undergraduate Student)
-
 
 ### Lab Basics
 
