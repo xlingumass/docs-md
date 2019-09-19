@@ -39,7 +39,6 @@ Christian Muxica (Undergraduate Student)
 
 Risa Komatsu (Undergraduate Student)
 
-Jessica Primavera (Undergraduate Student)
 
 ### Lab Basics
 
@@ -61,8 +60,8 @@ We pursue a 'converging operations' approach, studying the questions above from 
 
 N442 is the EyeLab. It is used only for running eye-tracking-while-reading experiments. It can run one participant at a time and comes equipped with an [SR Research](http://http://www.sr-research.com) Eyelink 1000 with a tower mount system. 
 
-- [Basic information about the EyeLab](https://osf.io/rcdj4/wiki/Lab%20Lore/)
-- [For RAs running participants](https://osf.io/rcdj4/wiki/RA%20Guide/)
+- [Basic information about the EyeLab](https://osf.io/rcdj4/wiki/Lab+Lore/)
+- [For RAs running participants](https://osf.io/rcdj4/wiki/RA+Guide/)
 - [Getting an eye-tracking experiment running](et_tutorials/#gathering-data) 
 <!-- //originally linked to StudentGuide_EyeLab.html -->
 - [Analyzing eye-tracking data](et_tutorials/#analyzing-data) 
@@ -72,15 +71,15 @@ N442 is the EyeLab. It is used only for running eye-tracking-while-reading exper
 
 N447 is the BehavLab. This room includes four identically outfitted iMac computers, and is for running any behavioral experiments on Linger/PsychoPy/IbexFarm. It can run four participants at a time. 
 
-- [Basic information about the BehavLab](https://osf.io/rcdj4/wiki/Lab%20Lore/)
-- [For RAs running participants](https://osf.io/rcdj4/wiki/RA%20Guide/)
+- [Basic information about the BehavLab](https://osf.io/rcdj4/wiki/Lab+Lore/)
+- [For RAs running participants](https://osf.io/rcdj4/wiki/RA+Guide/)
 - [Getting an IbexFarm study running](/ibex_guide)
 - [Getting an PsychoPy study running](PsychoPy_Guide.html) //x
 - [Getting an Linger study running](Linger_Guide.html) //x
 
 ##### Recruiting participants
 
-We schedule sessions and recruit participants via the [Linguistics SONA](https://umassxling.sona-systems.com/default.aspx). To learn about how to use SONA as an RA, please see the [SONA tutorial](https://osf.io/vr7gu/wiki/UMass%20XLing%20SONA/).
+We schedule sessions and recruit participants via the [Linguistics SONA](https://umassxling.sona-systems.com/default.aspx). To learn about how to use SONA as an RA, please see the [SONA tutorial](https://osf.io/vr7gu/wiki/UMass+XLing+SONA/).
 
 #### Communication
 
