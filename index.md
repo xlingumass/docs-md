@@ -1,7 +1,7 @@
 
 !["A Joint Labs meeting."](images/jlabs.jpg)
 
-**Joint lab meetings for Spring 2019 will be held in the Integrative Learning Center, Room N451, every other Thursday at 4 PM starting January 24.**
+**Joint lab meetings for Spring 2019 will be held in the Integrative Learning Center, Room N458, every other Thursday at 4 PM starting September 5th.**
 
 [//]: # (get examples for tutorials)
 
