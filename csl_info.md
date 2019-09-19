@@ -33,13 +33,10 @@ Erika Mayer (Ph.D. Student)
 
 Anissa Neal (Ph.D. Student)
 
-Niralee Gupta (Undergraduate Student)
-
 Christian Muxica (Undergraduate Student)
 
 Risa Komatsu (Undergraduate Student)
 
-Jessica Primavera (Undergraduate Student)
 
 ### Lab Basics
 
