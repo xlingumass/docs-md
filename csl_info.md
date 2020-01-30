@@ -17,24 +17,29 @@ The [Cognitive Science of Language Lab](osf.io/8rcwh/) studies how readers and l
 
 PI: Brian Dillon (Associate Professor)
 
-Caroline Andrews (Ph.D. Student)
-
-Sakshi Bhatia (Ph.D. Student)
-
-Thuy Bui (Ph.D. Student)
-
 Alex Göbel (Ph.D Student)
 
 Chris Hammerly (Ph.D Student)
+
+Barb Hlachova (Research Assistant)
+
+Simon Koch-Sultan  (Research Assistant)
+
+Risa Komatsu (Research Assistant)
 
 Rodica Ivan (Ph.D. Student)
 
 Erika Mayer (Ph.D. Student)
 
+Daniela Mertzen (Visiting Ph.D. Student)
+
 Anissa Neal (Ph.D. Student)
 
-Christian Muxica (Undergraduate Student)
+Christian Muxica (Lab Manager)
 
+Bhavya Pant (Research Assistant)
+
+Michael Wilson (Ph.D. Student)
 
 ### Lab Basics
 
@@ -44,7 +49,7 @@ In order to begin working with human subjects in the lab, all researchers must c
 
 #### Facilities and Equipment
 
-We pursue a 'converging operations' approach, studying the questions above from many different angles, with many distinct methodologies. Common experimental techniques include:
+We use multiple different methodologies in our research. We studying the questions above from many different angles, with many distinct methodologies. Common experimental techniques include:
 
 - Eye-tracking-while-reading (EyeLab: N442)
 - Self-paced reading (BehavLab: N447; Web-based)
