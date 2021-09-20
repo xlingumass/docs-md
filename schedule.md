@@ -1,5 +1,3 @@
-This is an md file.
-
 | UMass Ling Joint Lab Meeting Schedule |                         |
 |---------------------------------------|-------------------------|
 | Meetings Monday, 3:00PM in N400       |                         |
