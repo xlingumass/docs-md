@@ -16,6 +16,7 @@ docs_dir: 'docs-md'
 
 pages:
   - Home: index.md
+  - Lab Schedule: schedule.md
   - Joint Labs:
       - Phonetics Lab: phon_info.md
       - Cognitive Science of Language Lab: csl_info.md
