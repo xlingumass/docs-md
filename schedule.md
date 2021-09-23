@@ -5,8 +5,8 @@
 | September 20:                         | Presentation by Breanna |
 | September 27:                         | Presentation by Thomas  |
 | October 4:                            | Presentation by Anissa  |
-| October 11:                           | Presentation by Barb    |
-| October 18:                           |                         |
+| October 11:                           |                         |
+| October 18:                           | Presentation by Barb    |
 | October 25:                           |                         |
 | November 1:                           |                         |
 | November 8:                           |                         |
