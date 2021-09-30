@@ -6,9 +6,9 @@
 | September 27:                         | Presentation by Thomas  |
 | October 4:                            | Presentation by Anissa  |
 | October 11:                           |                         |
-| October 18:                           | Presentation by Barb    |
+| October 18:                           |                         |
 | October 25:                           |                         |
-| November 1:                           |                         |
+| November 1:                           | Presentation by Barb    |
 | November 8:                           |                         |
 | November 15:                          |                         |
 | November 22:                          |                         |
