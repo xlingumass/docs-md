@@ -4,8 +4,8 @@
 | September 13:                         | Presentation by Zander  |
 | September 20:                         | Presentation by Breanna |
 | September 27:                         | Presentation by Thomas  |
-| October 4:                            | Presentation by Anissa  |
-| October 11:                           |                         |
+| October 4:                            |                         |
+| October 11:                           | Presentation by Anissa  |
 | October 18:                           | Presentation by Maayan  |
 | October 25:                           |                         |
 | November 1:                           | Presentation by Barb    |
