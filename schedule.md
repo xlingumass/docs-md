@@ -4,7 +4,7 @@
 | September 13:                         | Presentation by Zander  |
 | September 20:                         | Presentation by Breanna |
 | September 27:                         | Presentation by Thomas  |
-| October 4:                            |                         |
+| October 4:                            | *No Meeting* observing Indigenous Peoples' day|
 | October 11:                           |                         |
 | October 18:                           | Presentation by Maayan  |
 | October 25:                           | Presentation by Anissa  |
