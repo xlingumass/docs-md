@@ -8,9 +8,9 @@
 | October 11:                           |                         |
 | October 18:                           | Presentation by Maayan  |
 | October 25:                           | Presentation by Anissa  |
-| November 1:                           |                         |
-| November 8:                           |                         |
-| November 15:                          | Presentation by Barb    |
+| November 1:                           | Presentation by Barb    |
+| November 8:                           | Presentation by Jon B.  |
+| November 15:                          |                         |
 | November 22:                          |                         |
 | November 29:                          |                         |
 | December 6:                           |                         |
