@@ -12,6 +12,6 @@
 | November 8:                           | Presentation by Jon B.  |
 | November 15:                          |                         |
 | November 22:                          |                         |
-| November 29:                          |                         |
+| November 29:                          | Presentation by Thomas  |
 | December 6:                           |                         |
 | December 13:                          |                         |
